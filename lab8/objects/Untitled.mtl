@@ -1,0 +1,52 @@
+# Blender 5.0.1 MTL File: 'Untitled.blend'
+# www.blender.org
+
+newmtl claws
+Ns 73.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.220000 0.220000 0.220000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd textures/solzi2.jpg
+
+newmtl skin
+Ns 72.000015
+Ka 1.000000 1.000000 1.000000
+Ks 0.060000 0.060000 0.060000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd textures/solzi2.jpg
+
+newmtl skin_without_scale
+Ns 72.000015
+Ka 1.000000 1.000000 1.000000
+Ks 0.060000 0.060000 0.060000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd textures/solzi2.jpg
+
+newmtl toothless_eye
+Ns 100.000015
+Ka 1.000000 1.000000 1.000000
+Ks 0.230000 0.230000 0.230000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd textures/ochi.png
+
+newmtl viking_logo
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd textures/logo.png

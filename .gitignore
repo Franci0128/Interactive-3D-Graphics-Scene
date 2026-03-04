@@ -1,0 +1,8 @@
+.vs/
+build/
+*.ipch
+*.exe
+*.pdb
+*.ilk
+*.log
+lab8/objects/proiect.obj

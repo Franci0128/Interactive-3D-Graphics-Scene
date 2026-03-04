@@ -1,0 +1,498 @@
+# Blender 5.0.1 MTL File: 'proiect.blend'
+# www.blender.org
+
+newmtl Glass.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_10.001.png
+map_Bump -bm 1.000000 textures/Image_12.001.png
+
+newmtl Lupin_arb_P_D_clear_1a
+Ns 19.792376
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_9.002.png
+map_Bump -bm 1.000000 textures/Image_10.002.png
+
+newmtl Lupin_arb_P_D_clear_pale_1a
+Ns 19.792376
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_11.002.png
+map_Bump -bm 1.000000 textures/Image_10.002.png
+
+newmtl Lupin_arb_P_U_clear_1b
+Ns 19.355562
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_16.002.png
+map_d textures/Image_16.002.png
+map_Bump -bm 1.000000 textures/Image_17.png
+
+newmtl Lupin_arb_P_U_clear_pale_1b
+Ns 19.355562
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_18.png
+map_d textures/Image_18.png
+map_Bump -bm 1.000000 textures/Image_17.png
+
+newmtl Lupin_arb_P_U_clear_white_1b
+Ns 19.355562
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_20.png
+map_d textures/Image_20.png
+map_Bump -bm 1.000000 textures/Image_17.png
+
+newmtl Lupin_arb_lf_stk_1
+Ns 19.792376
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_12.002.png
+
+newmtl Lupin_arb_lf_stk_2
+Ns 19.792376
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_13.002.png
+
+newmtl Lupin_arb_lf_stk_3
+Ns 19.792376
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_14.002.png
+
+newmtl Lupin_arb_lf_stk_4
+Ns 19.792376
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_15.002.png
+
+newmtl Lupin_arb_lf_stk_5
+Ns 19.792376
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_8.002.png
+
+newmtl Lupinus_arb_leaflet_1
+Ns 17.192680
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_2.004.png
+map_d textures/Image_2.004.png
+map_Bump -bm 1.000000 textures/Image_3.004.png
+
+newmtl Lupinus_arb_leaflet_2
+Ns 17.192680
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_4.002.png
+map_d textures/Image_4.002.png
+map_Bump -bm 1.000000 textures/Image_3.004.png
+
+newmtl Lupinus_arb_leaflet_3
+Ns 17.192680
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_5.002.png
+map_d textures/Image_5.002.png
+map_Bump -bm 1.000000 textures/Image_3.004.png
+
+newmtl Lupinus_arb_leaflet_4
+Ns 17.192680
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_6.002.png
+map_d textures/Image_6.002.png
+map_Bump -bm 1.000000 textures/Image_3.004.png
+
+newmtl Lupinus_arb_leaflet_5
+Ns 17.192680
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_7.002.png
+map_d textures/Image_7.002.png
+map_Bump -bm 1.000000 textures/Image_3.004.png
+
+newmtl Lupinus_arbo_branch
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.013.png
+map_Bump -bm 1.000000 textures/Image_1.006.png
+
+newmtl Lupinus_leaflet_01_y1
+Ns 17.192680
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_19.png
+map_d textures/Image_19.png
+map_Bump -bm 1.000000 textures/Image_3.004.png
+
+newmtl Main_church.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_14.001.png
+map_Bump -bm 1.000000 textures/Image_16.001.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Terrain003_2K_Color.png
+
+newmtl Portal-Mat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.095444 0.095444 0.095444
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_2.003.png
+
+newmtl Ramas
+Ns 242.248535
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_0.001.png
+map_d textures/Image_0.001.png
+map_Bump -bm 1.000000 textures/Image_1.001.png
+
+newmtl Roof_beam.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.011.png
+map_Bump -bm 1.000000 textures/Image_2.002.png
+
+newmtl Tower_roof.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_4.001.png
+map_Bump -bm 1.000000 textures/Image_6.001.png
+
+newmtl Tree
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_0.016.png
+map_d textures/Image_0.016.png
+
+newmtl Tronco
+Ns 58.654785
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_2.001.png
+map_Bump -bm 1.000000 textures/Image_3.001.png
+
+newmtl Window_frames.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_7.001.png
+map_Bump -bm 1.000000 textures/Image_9.001.png
+
+newmtl branch
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+illum 2
+map_Kd textures/Image_10.png
+map_Ns textures/Image_11.003.png
+map_d textures/Image_10.png
+map_Bump -bm 1.000000 textures/Image_12.png
+
+newmtl energyplasma
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_0.012.png
+map_Ke textures/Image_1.005.png
+map_d textures/Image_0.012.png
+
+newmtl lambert1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_1.012.png
+map_Bump -bm 1.000000 textures/Image_3.007.png
+
+newmtl lambert2
+Ns 7.441470
+Ka 0.080752 0.080752 0.080752
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/Image_0.017.png
+map_d textures/Image_0.017.png
+
+newmtl leaves
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+illum 2
+map_Kd textures/Image_5.png
+map_d textures/Image_5.png
+map_Bump -bm 1.000000 textures/Image_6.png
+
+newmtl main
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_0.008.jpg
+
+newmtl material0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_0.003.jpg
+
+newmtl material0.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_0.004.jpg
+
+newmtl material1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_1.002.jpg
+
+newmtl material1.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_1.003.jpg
+
+newmtl material_0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_0.009.jpg
+
+newmtl plant1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+illum 2
+map_Kd textures/Image_0.002.png
+map_Ns textures/Image_1.009.png
+map_d textures/Image_0.002.png
+map_Bump -bm 1.000000 textures/Image_2.005.png
+
+newmtl portal
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.014.png
+map_Ns textures/Image_1.011.png
+map_Ke textures/Image_2.006.png
+map_Bump -bm 1.000000 textures/Image_3.006.png
+
+newmtl tex_u1_v1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_0.015.jpg
+
+newmtl tex_u1_v1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/Image_0.005.jpg
+map_d textures/Image_0.005.jpg
+
+newmtl tex_u1_v1.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_0.006.jpg
+
+newmtl tex_u1_v1.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_0.007.jpg
+
+newmtl tex_u1_v1.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_0.010.jpg
+
+newmtl tree1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd textures/Image_7.png
+map_Ns textures/Image_8.003.png
+map_Bump -bm 1.000000 textures/Image_9.png
+
+newmtl wooddebris
+Ns 31.878038
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+illum 2
+map_Kd textures/Image_3.005.png
+map_d textures/Image_3.005.png
+map_Bump -bm 1.000000 textures/Image_4.png
