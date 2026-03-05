@@ -1,4 +1,4 @@
-# 🐉 Dragon Mountain Ruins - Interactive 3D Graphics Scene
+# Dragon Mountain Ruins - Interactive 3D Graphics Scene
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl)
@@ -10,7 +10,7 @@
 </p>
 
 
-## 📖 Description
+## Description
 
 This project implements an interactive 3D graphics scene using OpenGL.
 
@@ -19,7 +19,7 @@ The application renders a fantasy mountain landscape containing ancient ruins, f
 The goal of the project is to demonstrate modern computer graphics techniques such as lighting models, shadow mapping, fog effects and a programmable rendering pipeline.
 
 
-## ✨ Features
+## Features
 
 - Real-time interactive 3D scene
 - Dynamic camera movement
@@ -47,7 +47,7 @@ The goal of the project is to demonstrate modern computer graphics techniques su
 - Cinematic camera mode
 
 
-## ⚙ Technologies
+## Technologies
 
 - C++
 - OpenGL
@@ -57,7 +57,7 @@ The goal of the project is to demonstrate modern computer graphics techniques su
 - Blender (for 3D models)
 
 
-## 📥 Download
+## Download
 
 Clone the repository:
 ```bash
@@ -76,7 +76,7 @@ lab8/objects/
 This is the same folder that contains the other `.obj` and `.mtl` files used by the project.
 
 
-## 🛠 Installation
+## Installation
 
 Requirements:
 
@@ -93,7 +93,7 @@ Steps:
 3. Run the executable.
 
 
-## ▶ Usage
+## Usage
 
 After launching the application, the user can explore the environment in real time.
 
@@ -116,7 +116,7 @@ After launching the application, the user can explore the environment in real ti
 | Esc | Close the application |
 
 
-## 🧠 Graphics Implementation
+## Graphics Implementation
 
 The project demonstrates several important real-time rendering techniques used in modern computer graphics.
 
@@ -135,7 +135,7 @@ The scene is rendered from the perspective of the light source to generate a dep
 An exponential fog model is used to simulate atmospheric depth and improve visual realism.
 
 
-## 📂 Project Structure
+## Project Structure
 ```
 lab8/
 │
@@ -169,7 +169,7 @@ lab8/
 └── lab8.vcxproj # Visual Studio project file
 ```
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="images/dragon.png" width="500"/>
@@ -182,7 +182,7 @@ lab8/
 </p>
 
 
-## 👩‍💻 Author
+## Author
 
 Francesca Lara Szarka  
 Computer Science Student  
