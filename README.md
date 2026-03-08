@@ -12,10 +12,8 @@
 
 ## Description
 
-This project implements an interactive 3D graphics scene using OpenGL.
-
-The application renders a fantasy mountain landscape containing ancient ruins, forests, a glowing portal and a flying dragon (Toothless, my favourite character, from 'How to Train Your Dragon' the movie). The user can freely explore the environment in real time using keyboard and mouse controls.
-
+This project implements an interactive 3D graphics scene using OpenGL.  
+The application renders a fantasy mountain landscape containing ancient ruins, forests, a glowing portal and a flying dragon (Toothless, my favourite character, from 'How to Train Your Dragon' the movie). The user can freely explore the environment in real time using keyboard and mouse controls.  
 The goal of the project is to demonstrate modern computer graphics techniques such as lighting models, shadow mapping, fog effects and a programmable rendering pipeline.
 
 
@@ -126,8 +124,7 @@ The scene uses the Phong illumination model to compute lighting per pixel in the
 
 ### Shadow Mapping
 
-Shadows are generated using the shadow mapping technique.
-
+Shadows are generated using the shadow mapping technique.  
 The scene is rendered from the perspective of the light source to generate a depth map. During the final rendering pass, fragments compare their depth with the shadow map to determine if they are in shadow.
 
 ### Fog Effect
@@ -183,7 +180,6 @@ lab8/
 
 
 ## Author
-
 Francesca Lara Szarka  
 Computer Science Student  
 Technical University of Cluj-Napoca
